@@ -1,2 +1,3 @@
-# home-page
-home page of a Website
+# Home-Page
+
+Home page for Yumzyx Website
