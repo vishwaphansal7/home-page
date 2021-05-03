@@ -1,0 +1,54 @@
+body {
+  font-family: "Poppins", sans-serif;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.main-background {
+  background: #ffeff5;
+}
+
+.menu {
+  margin: 1% 2%;
+}
+
+.img-float-right {
+  float: right;
+}
+
+.lp-text {
+  font-weight: 700;
+  font-size: 3vw;
+  text-align: center;
+  color: #213454;
+}
+
+.btn {
+  padding: 10px 25px;
+  font-size: 14px;
+  margin-top: 24px;
+  border-color: #ec1e69;
+  border-radius: 10px;
+}
+
+.getStarted-button {
+  background-color: #ec1e69;
+}
+
+.request-demo {
+  background-color: #ffeff5;
+  color: #ec1e69;
+}
+
+.responsive-img {
+  width: 100%;
+  height: auto;
+}
+
+.center-item {
+  text-align: center;
+}

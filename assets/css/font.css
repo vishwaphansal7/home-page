@@ -1,0 +1,9 @@
+@media (max-width: 576px) {
+  .lp-text {
+    font-size: 20px;
+  }
+
+  .btn {
+    font-size: 3vw;
+  }
+}
